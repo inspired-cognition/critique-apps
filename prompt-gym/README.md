@@ -2,7 +2,9 @@
 
 by [Inspired Cognition](https://inspiredco.ai)
 
-This repo hosts a [notebook](prompt-gym.ipynb) that demonstrates how to simply play around with prompts for text generation, testing **different models** and **different prompts** and evaluating according to **different criteria**.
+Recently, many AI-based applications are based on large language models and *prompting*, where you write a textual prompt and the model generates a response. However, app engineers and researchers are often faced with a hard decision of *which prompt to use* and *which model to use it with*.
+
+ [Prompt Gym](prompt-gym.ipynb) is a Jupyter notebook that demonstrates how to simply play around with prompts for text generation, testing **different models** and **different prompts** and evaluating according to **different criteria**.
 
 <p align="center">
 <img src="prompt-gym.png"  width="256" height="256">
